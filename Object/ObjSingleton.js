@@ -46,7 +46,7 @@ const course = {
 const {coursename}=course
 console.log(coursename);
 
-const ({name})=course;
+const {name}=course;
 
 const myp={
     "name":"Saroj",
