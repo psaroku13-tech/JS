@@ -59,9 +59,13 @@ console.log("DB Connection");
     console.log("Test")
 })()
 
-//Global Execution Context
+//Global Execution Context -> this
 
-//Fuction execution context
+//Fuction execution context/Memory phase
 
-//Eval execution context
+//Eval execution context/Execution phase
 
+//javacode run in 2 phases 
+
+//1. Memory or creation phase variable will take space
+//2. execution phase ->
