@@ -22,3 +22,5 @@ const { useCallback } = require("react")
 //GenAI System
 
 //  https://www.google.com/search?q=genAI+from+chaiorcode+youtube+vedio&oq=genAI+from+chaiorcode+youtube+vedio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIRgV0gEIMTA3N2owajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8
+
+
