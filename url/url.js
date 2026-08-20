@@ -25,7 +25,7 @@ const { useCallback } = require("react")
 
 //API git hub .com
 
-https://api.github.com/users
+//https://api.github.com/users
 
 //Random User me 
-https://randomuser.me/
+//https://randomuser.me/
