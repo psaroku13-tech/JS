@@ -23,4 +23,9 @@ const { useCallback } = require("react")
 
 //  https://www.google.com/search?q=genAI+from+chaiorcode+youtube+vedio&oq=genAI+from+chaiorcode+youtube+vedio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIRgV0gEIMTA3N2owajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8
 
+//API git hub .com
 
+https://api.github.com/users
+
+//Random User me 
+https://randomuser.me/
