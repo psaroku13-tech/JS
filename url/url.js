@@ -29,3 +29,6 @@ const { useCallback } = require("react")
 
 //Random User me 
 //https://randomuser.me/
+
+//white board
+//https://excalidraw.com/#room=7bbf30f81be5258cc204,k8CCietTysS3psCcstZI0A
